@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse: collapse;
+	width: 100vh;
+}
+th{
+	background-color: gray;
+}
+table, td, th {
+	border: 1px solid black;
+}
+video{
+	width: 50%;
+}
